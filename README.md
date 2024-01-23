@@ -1,2 +1,2 @@
 # Movie-recommendation-system
-AIML based System
+AIML based Movie-recommendation-system project internship
